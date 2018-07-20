@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\bin\Debug\netcoreapp2.0\SnowMen.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\bin\Debug\netcoreapp2.0\SnowMen.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\bin\Debug\netcoreapp2.0\SnowMen.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\bin\Debug\netcoreapp2.0\SnowMen.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\bin\Debug\netcoreapp2.0\SnowMen.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\obj\Debug\netcoreapp2.0\SnowMen.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\obj\Debug\netcoreapp2.0\SnowMen.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\obj\Debug\netcoreapp2.0\SnowMen.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\obj\Debug\netcoreapp2.0\SnowMen.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SnowMen\obj\Debug\netcoreapp2.0\SnowMen.pdb

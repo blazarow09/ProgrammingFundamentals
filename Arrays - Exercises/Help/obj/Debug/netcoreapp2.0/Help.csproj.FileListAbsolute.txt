@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ArraysExercises\Help\bin\Debug\netcoreapp2.0\Help.deps.json
+C:\Users\E6420\source\repos\ArraysExercises\Help\bin\Debug\netcoreapp2.0\Help.runtimeconfig.json
+C:\Users\E6420\source\repos\ArraysExercises\Help\bin\Debug\netcoreapp2.0\Help.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ArraysExercises\Help\bin\Debug\netcoreapp2.0\Help.dll
+C:\Users\E6420\source\repos\ArraysExercises\Help\bin\Debug\netcoreapp2.0\Help.pdb
+C:\Users\E6420\source\repos\ArraysExercises\Help\obj\Debug\netcoreapp2.0\Help.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ArraysExercises\Help\obj\Debug\netcoreapp2.0\Help.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ArraysExercises\Help\obj\Debug\netcoreapp2.0\Help.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ArraysExercises\Help\obj\Debug\netcoreapp2.0\Help.dll
+C:\Users\E6420\source\repos\ArraysExercises\Help\obj\Debug\netcoreapp2.0\Help.pdb
+C:\Users\E6420\source\repos\ArraysExercises\Help\obj\Debug\netcoreapp2.0\Help.csprojResolveAssemblyReference.cache

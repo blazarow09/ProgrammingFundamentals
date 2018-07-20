@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.deps.json
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.runtimeconfig.json
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.pdb
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.AssemblyInfo.cs
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.pdb

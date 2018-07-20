@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.pdb

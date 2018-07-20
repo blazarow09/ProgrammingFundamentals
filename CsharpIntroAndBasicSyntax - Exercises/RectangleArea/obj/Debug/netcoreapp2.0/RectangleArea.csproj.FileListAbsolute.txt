@@ -1,0 +1,10 @@
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.deps.json
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.runtimeconfig.json
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.dll
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.pdb
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.AssemblyInfo.cs
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.dll
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.pdb

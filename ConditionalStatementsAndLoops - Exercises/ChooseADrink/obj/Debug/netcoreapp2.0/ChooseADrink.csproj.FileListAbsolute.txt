@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\bin\Debug\netcoreapp2.0\ChooseADrink.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\bin\Debug\netcoreapp2.0\ChooseADrink.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\bin\Debug\netcoreapp2.0\ChooseADrink.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\bin\Debug\netcoreapp2.0\ChooseADrink.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\bin\Debug\netcoreapp2.0\ChooseADrink.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\obj\Debug\netcoreapp2.0\ChooseADrink.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\obj\Debug\netcoreapp2.0\ChooseADrink.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\obj\Debug\netcoreapp2.0\ChooseADrink.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\obj\Debug\netcoreapp2.0\ChooseADrink.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\obj\Debug\netcoreapp2.0\ChooseADrink.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\ChooseADrink\obj\Debug\netcoreapp2.0\ChooseADrink.pdb

@@ -1,0 +1,7 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\bin\Debug\AnonymousThreat.exe.config
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\bin\Debug\AnonymousThreat.exe
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\bin\Debug\AnonymousThreat.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\obj\Debug\AnonymousThreat.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\obj\Debug\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\obj\Debug\AnonymousThreat.exe
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousThreat\obj\Debug\AnonymousThreat.pdb

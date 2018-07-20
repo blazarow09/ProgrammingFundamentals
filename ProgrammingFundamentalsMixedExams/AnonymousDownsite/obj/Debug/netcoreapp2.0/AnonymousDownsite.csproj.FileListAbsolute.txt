@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.pdb

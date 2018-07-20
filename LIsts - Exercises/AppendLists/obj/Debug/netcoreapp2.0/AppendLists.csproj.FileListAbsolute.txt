@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.deps.json
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.runtimeconfig.json
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.runtimeconfig.dev.json
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.dll
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.pdb
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.AssemblyInfo.cs
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.dll
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.pdb
+c:\users\e6420\source\repos\LIstsExercises\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.csprojResolveAssemblyReference.cache

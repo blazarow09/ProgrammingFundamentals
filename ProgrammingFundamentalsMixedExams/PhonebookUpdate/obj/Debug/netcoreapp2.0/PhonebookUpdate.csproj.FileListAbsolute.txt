@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\bin\Debug\netcoreapp2.0\PhonebookUpdate.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\bin\Debug\netcoreapp2.0\PhonebookUpdate.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\bin\Debug\netcoreapp2.0\PhonebookUpdate.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\bin\Debug\netcoreapp2.0\PhonebookUpdate.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\bin\Debug\netcoreapp2.0\PhonebookUpdate.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\obj\Debug\netcoreapp2.0\PhonebookUpdate.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\obj\Debug\netcoreapp2.0\PhonebookUpdate.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\obj\Debug\netcoreapp2.0\PhonebookUpdate.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\obj\Debug\netcoreapp2.0\PhonebookUpdate.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\obj\Debug\netcoreapp2.0\PhonebookUpdate.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PhonebookUpdate\obj\Debug\netcoreapp2.0\PhonebookUpdate.csprojResolveAssemblyReference.cache

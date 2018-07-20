@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp2.0\FullName.deps.json
+c:\users\e6420\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp2.0\FullName.runtimeconfig.json
+c:\users\e6420\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp2.0\FullName.runtimeconfig.dev.json
+c:\users\e6420\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp2.0\FullName.dll
+c:\users\e6420\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp2.0\FullName.pdb
+c:\users\e6420\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp2.0\FullName.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp2.0\FullName.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp2.0\FullName.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp2.0\FullName.AssemblyInfo.cs
+c:\users\e6420\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp2.0\FullName.dll
+c:\users\e6420\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp2.0\FullName.pdb

@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\bin\Debug\netcoreapp2.0\LargestCoomonEnd.deps.json
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\bin\Debug\netcoreapp2.0\LargestCoomonEnd.runtimeconfig.json
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\bin\Debug\netcoreapp2.0\LargestCoomonEnd.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\bin\Debug\netcoreapp2.0\LargestCoomonEnd.dll
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\bin\Debug\netcoreapp2.0\LargestCoomonEnd.pdb
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\obj\Debug\netcoreapp2.0\LargestCoomonEnd.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\obj\Debug\netcoreapp2.0\LargestCoomonEnd.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\obj\Debug\netcoreapp2.0\LargestCoomonEnd.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\obj\Debug\netcoreapp2.0\LargestCoomonEnd.dll
+C:\Users\E6420\source\repos\ArraysExercises\LargestCoomonEnd\obj\Debug\netcoreapp2.0\LargestCoomonEnd.pdb

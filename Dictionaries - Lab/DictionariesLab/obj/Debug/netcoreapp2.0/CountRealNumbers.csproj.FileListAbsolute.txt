@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\bin\Debug\netcoreapp2.0\CountRealNumbers.deps.json
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.json
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.dev.json
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\bin\Debug\netcoreapp2.0\CountRealNumbers.dll
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\bin\Debug\netcoreapp2.0\CountRealNumbers.pdb
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\obj\Debug\netcoreapp2.0\CountRealNumbers.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\obj\Debug\netcoreapp2.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfo.cs
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\obj\Debug\netcoreapp2.0\CountRealNumbers.dll
+c:\users\e6420\source\repos\DictionariesLab\DictionariesLab\obj\Debug\netcoreapp2.0\CountRealNumbers.pdb

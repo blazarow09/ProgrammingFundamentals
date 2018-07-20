@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.deps.json
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.runtimeconfig.json
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.pdb
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.AssemblyInfo.cs
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.pdb

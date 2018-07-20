@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\bin\Debug\netcoreapp2.0\NeighbourWars.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\bin\Debug\netcoreapp2.0\NeighbourWars.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\bin\Debug\netcoreapp2.0\NeighbourWars.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\bin\Debug\netcoreapp2.0\NeighbourWars.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\bin\Debug\netcoreapp2.0\NeighbourWars.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\obj\Debug\netcoreapp2.0\NeighbourWars.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\obj\Debug\netcoreapp2.0\NeighbourWars.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\obj\Debug\netcoreapp2.0\NeighbourWars.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\obj\Debug\netcoreapp2.0\NeighbourWars.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\obj\Debug\netcoreapp2.0\NeighbourWars.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\NeighbourWars\obj\Debug\netcoreapp2.0\NeighbourWars.pdb

@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.pdb

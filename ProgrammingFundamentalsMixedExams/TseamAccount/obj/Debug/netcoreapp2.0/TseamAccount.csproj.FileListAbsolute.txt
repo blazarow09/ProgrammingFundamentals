@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.pdb

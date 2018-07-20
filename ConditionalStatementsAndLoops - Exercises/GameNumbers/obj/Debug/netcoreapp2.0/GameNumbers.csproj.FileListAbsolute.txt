@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\bin\Debug\netcoreapp2.0\GameNumbers.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\bin\Debug\netcoreapp2.0\GameNumbers.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\bin\Debug\netcoreapp2.0\GameNumbers.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\bin\Debug\netcoreapp2.0\GameNumbers.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\bin\Debug\netcoreapp2.0\GameNumbers.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\obj\Debug\netcoreapp2.0\GameNumbers.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\obj\Debug\netcoreapp2.0\GameNumbers.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\obj\Debug\netcoreapp2.0\GameNumbers.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\obj\Debug\netcoreapp2.0\GameNumbers.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\obj\Debug\netcoreapp2.0\GameNumbers.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\GameNumbers\obj\Debug\netcoreapp2.0\GameNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\bin\Debug\netcoreapp2.0\SoftUniExamResult.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\bin\Debug\netcoreapp2.0\SoftUniExamResult.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\bin\Debug\netcoreapp2.0\SoftUniExamResult.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\bin\Debug\netcoreapp2.0\SoftUniExamResult.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\bin\Debug\netcoreapp2.0\SoftUniExamResult.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\obj\Debug\netcoreapp2.0\SoftUniExamResult.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\obj\Debug\netcoreapp2.0\SoftUniExamResult.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\obj\Debug\netcoreapp2.0\SoftUniExamResult.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\obj\Debug\netcoreapp2.0\SoftUniExamResult.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\obj\Debug\netcoreapp2.0\SoftUniExamResult.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniExamResult\obj\Debug\netcoreapp2.0\SoftUniExamResult.csprojResolveAssemblyReference.cache

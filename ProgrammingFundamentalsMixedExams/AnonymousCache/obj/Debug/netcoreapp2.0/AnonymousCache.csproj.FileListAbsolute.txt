@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.pdb

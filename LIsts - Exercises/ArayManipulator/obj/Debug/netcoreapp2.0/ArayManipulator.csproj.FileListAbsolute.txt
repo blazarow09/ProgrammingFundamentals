@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\bin\Debug\netcoreapp2.0\ArayManipulator.deps.json
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\bin\Debug\netcoreapp2.0\ArayManipulator.runtimeconfig.json
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\bin\Debug\netcoreapp2.0\ArayManipulator.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\bin\Debug\netcoreapp2.0\ArayManipulator.dll
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\bin\Debug\netcoreapp2.0\ArayManipulator.pdb
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\obj\Debug\netcoreapp2.0\ArayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\obj\Debug\netcoreapp2.0\ArayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\obj\Debug\netcoreapp2.0\ArayManipulator.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\obj\Debug\netcoreapp2.0\ArayManipulator.AssemblyInfo.cs
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\obj\Debug\netcoreapp2.0\ArayManipulator.dll
+C:\Users\E6420\source\repos\LIstsExercises\ArayManipulator\obj\Debug\netcoreapp2.0\ArayManipulator.pdb

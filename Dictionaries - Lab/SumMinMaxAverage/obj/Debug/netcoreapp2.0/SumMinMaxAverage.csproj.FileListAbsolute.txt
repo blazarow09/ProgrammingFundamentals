@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.deps.json
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.runtimeconfig.json
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.runtimeconfig.dev.json
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.dll
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.pdb
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.AssemblyInfo.cs
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.dll
+c:\users\e6420\source\repos\DictionariesLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.pdb

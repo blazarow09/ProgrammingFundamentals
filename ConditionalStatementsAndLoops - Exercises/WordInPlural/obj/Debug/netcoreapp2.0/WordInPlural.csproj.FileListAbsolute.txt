@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.csprojResolveAssemblyReference.cache

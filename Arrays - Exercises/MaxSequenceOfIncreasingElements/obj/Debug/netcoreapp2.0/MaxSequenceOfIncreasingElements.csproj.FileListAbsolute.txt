@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.deps.json
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.runtimeconfig.json
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.dll
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.pdb
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.dll
+C:\Users\E6420\source\repos\ArraysExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceOfIncreasingElements.pdb

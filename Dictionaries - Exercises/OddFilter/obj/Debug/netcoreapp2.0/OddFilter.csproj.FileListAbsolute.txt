@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.deps.json
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.runtimeconfig.json
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.pdb
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.AssemblyInfo.cs
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.pdb

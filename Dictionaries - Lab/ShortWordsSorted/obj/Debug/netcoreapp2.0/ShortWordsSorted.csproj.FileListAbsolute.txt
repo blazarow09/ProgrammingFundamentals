@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.deps.json
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.runtimeconfig.json
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.runtimeconfig.dev.json
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.dll
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.pdb
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.AssemblyInfo.cs
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.dll
+c:\users\e6420\source\repos\DictionariesLab\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.pdb

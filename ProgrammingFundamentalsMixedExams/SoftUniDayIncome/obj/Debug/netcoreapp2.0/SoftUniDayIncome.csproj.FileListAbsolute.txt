@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\bin\Debug\netcoreapp2.0\SoftUniDayIncome.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\bin\Debug\netcoreapp2.0\SoftUniDayIncome.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\bin\Debug\netcoreapp2.0\SoftUniDayIncome.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\bin\Debug\netcoreapp2.0\SoftUniDayIncome.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\bin\Debug\netcoreapp2.0\SoftUniDayIncome.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\obj\Debug\netcoreapp2.0\SoftUniDayIncome.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\obj\Debug\netcoreapp2.0\SoftUniDayIncome.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\obj\Debug\netcoreapp2.0\SoftUniDayIncome.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\obj\Debug\netcoreapp2.0\SoftUniDayIncome.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniDayIncome\obj\Debug\netcoreapp2.0\SoftUniDayIncome.pdb

@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.pdb

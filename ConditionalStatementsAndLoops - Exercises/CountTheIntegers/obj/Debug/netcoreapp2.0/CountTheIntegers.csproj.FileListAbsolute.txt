@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.pdb

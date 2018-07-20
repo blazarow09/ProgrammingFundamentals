@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\SoftUniCoursePlanning.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\SoftUniCoursePlanning.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\SoftUniCoursePlanning.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\SoftUniCoursePlanning.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\SoftUniCoursePlanning.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\SoftUniCoursePlanning.pdb

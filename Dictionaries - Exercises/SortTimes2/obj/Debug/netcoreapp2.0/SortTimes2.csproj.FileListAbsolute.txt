@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\obj\Debug\netcoreapp2.0\SortTimes2.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\obj\Debug\netcoreapp2.0\SortTimes2.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\obj\Debug\netcoreapp2.0\SortTimes2.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\obj\Debug\netcoreapp2.0\SortTimes2.AssemblyInfo.cs
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\bin\Debug\netcoreapp2.0\SortTimes2.deps.json
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\bin\Debug\netcoreapp2.0\SortTimes2.runtimeconfig.json
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\bin\Debug\netcoreapp2.0\SortTimes2.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\bin\Debug\netcoreapp2.0\SortTimes2.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\bin\Debug\netcoreapp2.0\SortTimes2.pdb
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\obj\Debug\netcoreapp2.0\SortTimes2.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\SortTimes2\obj\Debug\netcoreapp2.0\SortTimes2.pdb

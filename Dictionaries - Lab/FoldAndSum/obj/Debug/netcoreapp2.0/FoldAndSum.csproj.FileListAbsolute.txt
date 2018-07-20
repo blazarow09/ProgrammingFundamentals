@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.deps.json
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.json
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.dev.json
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.dll
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.pdb
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfo.cs
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.dll
+c:\users\e6420\source\repos\DictionariesLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.pdb

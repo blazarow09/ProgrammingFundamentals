@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.deps.json
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.runtimeconfig.json
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.dll
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.pdb
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.AssemblyInfo.cs
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.dll
+C:\Users\E6420\source\repos\RegexLab\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.pdb

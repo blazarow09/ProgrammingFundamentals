@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.pdb

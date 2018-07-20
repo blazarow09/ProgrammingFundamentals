@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\bin\Debug\netcoreapp2.0\ExchangeVariableData.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\bin\Debug\netcoreapp2.0\ExchangeVariableData.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\bin\Debug\netcoreapp2.0\ExchangeVariableData.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\bin\Debug\netcoreapp2.0\ExchangeVariableData.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\bin\Debug\netcoreapp2.0\ExchangeVariableData.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\obj\Debug\netcoreapp2.0\ExchangeVariableData.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\obj\Debug\netcoreapp2.0\ExchangeVariableData.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\obj\Debug\netcoreapp2.0\ExchangeVariableData.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\obj\Debug\netcoreapp2.0\ExchangeVariableData.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ExchangeVariableData\obj\Debug\netcoreapp2.0\ExchangeVariableData.pdb

@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\bin\Debug\netcoreapp2.0\PhonebookUpgrade.deps.json
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\bin\Debug\netcoreapp2.0\PhonebookUpgrade.runtimeconfig.json
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\bin\Debug\netcoreapp2.0\PhonebookUpgrade.runtimeconfig.dev.json
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\bin\Debug\netcoreapp2.0\PhonebookUpgrade.dll
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\bin\Debug\netcoreapp2.0\PhonebookUpgrade.pdb
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\obj\Debug\netcoreapp2.0\PhonebookUpgrade.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\obj\Debug\netcoreapp2.0\PhonebookUpgrade.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\obj\Debug\netcoreapp2.0\PhonebookUpgrade.AssemblyInfo.cs
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\obj\Debug\netcoreapp2.0\PhonebookUpgrade.dll
+c:\users\e6420\source\repos\DictionariesEcercise\PhonebookUpgrade\obj\Debug\netcoreapp2.0\PhonebookUpgrade.pdb
+C:\Users\E6420\source\repos\DictionariesEcercise\PhonebookUpgrade\obj\Debug\netcoreapp2.0\PhonebookUpgrade.csprojResolveAssemblyReference.cache

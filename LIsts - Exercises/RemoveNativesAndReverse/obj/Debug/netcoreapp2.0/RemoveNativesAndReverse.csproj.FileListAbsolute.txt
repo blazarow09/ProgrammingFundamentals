@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNativesAndReverse.deps.json
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNativesAndReverse.runtimeconfig.json
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNativesAndReverse.runtimeconfig.dev.json
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNativesAndReverse.dll
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNativesAndReverse.pdb
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNativesAndReverse.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNativesAndReverse.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNativesAndReverse.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNativesAndReverse.AssemblyInfo.cs
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNativesAndReverse.dll
+c:\users\e6420\source\repos\LIstsExercises\RemoveNativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNativesAndReverse.pdb

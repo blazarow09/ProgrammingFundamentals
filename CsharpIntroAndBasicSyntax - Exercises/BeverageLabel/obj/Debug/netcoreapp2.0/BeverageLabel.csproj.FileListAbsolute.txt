@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\bin\Debug\netcoreapp2.0\BeverageLabel.deps.json
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\bin\Debug\netcoreapp2.0\BeverageLabel.runtimeconfig.json
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\bin\Debug\netcoreapp2.0\BeverageLabel.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\bin\Debug\netcoreapp2.0\BeverageLabel.dll
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\bin\Debug\netcoreapp2.0\BeverageLabel.pdb
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\obj\Debug\netcoreapp2.0\BeverageLabel.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\obj\Debug\netcoreapp2.0\BeverageLabel.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\obj\Debug\netcoreapp2.0\BeverageLabel.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\obj\Debug\netcoreapp2.0\BeverageLabel.AssemblyInfo.cs
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\obj\Debug\netcoreapp2.0\BeverageLabel.dll
+B:\VisualStudio\TechModule\CSharpBasicSyntaxExercises\BeverageLabel\obj\Debug\netcoreapp2.0\BeverageLabel.pdb

@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\PracticeIntegerNumbers\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers.pdb

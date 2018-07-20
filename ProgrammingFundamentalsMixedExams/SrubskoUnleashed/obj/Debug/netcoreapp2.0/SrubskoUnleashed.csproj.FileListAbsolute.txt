@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\bin\Debug\netcoreapp2.0\SrubskoUnleashed.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\bin\Debug\netcoreapp2.0\SrubskoUnleashed.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\bin\Debug\netcoreapp2.0\SrubskoUnleashed.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\bin\Debug\netcoreapp2.0\SrubskoUnleashed.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\bin\Debug\netcoreapp2.0\SrubskoUnleashed.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\obj\Debug\netcoreapp2.0\SrubskoUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\obj\Debug\netcoreapp2.0\SrubskoUnleashed.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\obj\Debug\netcoreapp2.0\SrubskoUnleashed.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\obj\Debug\netcoreapp2.0\SrubskoUnleashed.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\obj\Debug\netcoreapp2.0\SrubskoUnleashed.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\SrubskoUnleashed\obj\Debug\netcoreapp2.0\SrubskoUnleashed.csprojResolveAssemblyReference.cache

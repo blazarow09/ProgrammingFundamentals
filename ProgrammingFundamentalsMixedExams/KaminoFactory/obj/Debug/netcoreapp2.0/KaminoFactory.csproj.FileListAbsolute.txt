@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.pdb

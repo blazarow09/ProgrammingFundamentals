@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.pdb

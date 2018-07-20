@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.pdb

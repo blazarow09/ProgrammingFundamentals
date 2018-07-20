@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.deps.json
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.runtimeconfig.json
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.pdb
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.AssemblyInfo.cs
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.dll
+C:\Users\E6420\source\repos\DictionariesEcercise\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.pdb

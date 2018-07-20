@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\LIstsExercises\Try\bin\Debug\netcoreapp2.0\Try.deps.json
+C:\Users\E6420\source\repos\LIstsExercises\Try\bin\Debug\netcoreapp2.0\Try.runtimeconfig.json
+C:\Users\E6420\source\repos\LIstsExercises\Try\bin\Debug\netcoreapp2.0\Try.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\LIstsExercises\Try\bin\Debug\netcoreapp2.0\Try.dll
+C:\Users\E6420\source\repos\LIstsExercises\Try\bin\Debug\netcoreapp2.0\Try.pdb
+C:\Users\E6420\source\repos\LIstsExercises\Try\obj\Debug\netcoreapp2.0\Try.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\LIstsExercises\Try\obj\Debug\netcoreapp2.0\Try.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\LIstsExercises\Try\obj\Debug\netcoreapp2.0\Try.AssemblyInfo.cs
+C:\Users\E6420\source\repos\LIstsExercises\Try\obj\Debug\netcoreapp2.0\Try.dll
+C:\Users\E6420\source\repos\LIstsExercises\Try\obj\Debug\netcoreapp2.0\Try.pdb

@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.pdb

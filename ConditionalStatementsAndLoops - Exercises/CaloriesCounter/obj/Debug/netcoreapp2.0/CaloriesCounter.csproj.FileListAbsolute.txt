@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\bin\Debug\netcoreapp2.0\CaloriesCounter.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\bin\Debug\netcoreapp2.0\CaloriesCounter.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\bin\Debug\netcoreapp2.0\CaloriesCounter.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\bin\Debug\netcoreapp2.0\CaloriesCounter.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\bin\Debug\netcoreapp2.0\CaloriesCounter.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\obj\Debug\netcoreapp2.0\CaloriesCounter.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\obj\Debug\netcoreapp2.0\CaloriesCounter.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\obj\Debug\netcoreapp2.0\CaloriesCounter.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\obj\Debug\netcoreapp2.0\CaloriesCounter.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\obj\Debug\netcoreapp2.0\CaloriesCounter.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CaloriesCounter\obj\Debug\netcoreapp2.0\CaloriesCounter.pdb

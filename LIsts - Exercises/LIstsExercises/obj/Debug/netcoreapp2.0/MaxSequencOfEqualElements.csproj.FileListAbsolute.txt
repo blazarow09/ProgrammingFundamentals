@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\bin\Debug\netcoreapp2.0\MaxSequencOfEqualElements.deps.json
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\bin\Debug\netcoreapp2.0\MaxSequencOfEqualElements.runtimeconfig.json
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\bin\Debug\netcoreapp2.0\MaxSequencOfEqualElements.runtimeconfig.dev.json
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\bin\Debug\netcoreapp2.0\MaxSequencOfEqualElements.dll
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\bin\Debug\netcoreapp2.0\MaxSequencOfEqualElements.pdb
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\obj\Debug\netcoreapp2.0\MaxSequencOfEqualElements.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\obj\Debug\netcoreapp2.0\MaxSequencOfEqualElements.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\obj\Debug\netcoreapp2.0\MaxSequencOfEqualElements.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\obj\Debug\netcoreapp2.0\MaxSequencOfEqualElements.AssemblyInfo.cs
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\obj\Debug\netcoreapp2.0\MaxSequencOfEqualElements.dll
+c:\users\e6420\source\repos\LIstsExercises\LIstsExercises\obj\Debug\netcoreapp2.0\MaxSequencOfEqualElements.pdb

@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb

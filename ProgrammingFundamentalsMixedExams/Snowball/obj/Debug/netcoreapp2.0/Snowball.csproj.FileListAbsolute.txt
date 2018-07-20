@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\bin\Debug\netcoreapp2.0\Snowball.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\bin\Debug\netcoreapp2.0\Snowball.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\bin\Debug\netcoreapp2.0\Snowball.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\bin\Debug\netcoreapp2.0\Snowball.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\bin\Debug\netcoreapp2.0\Snowball.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\obj\Debug\netcoreapp2.0\Snowball.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\obj\Debug\netcoreapp2.0\Snowball.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\obj\Debug\netcoreapp2.0\Snowball.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\obj\Debug\netcoreapp2.0\Snowball.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\obj\Debug\netcoreapp2.0\Snowball.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\Snowball\obj\Debug\netcoreapp2.0\Snowball.pdb

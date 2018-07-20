@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.pdb

@@ -1,0 +1,10 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.pdb

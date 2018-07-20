@@ -1,0 +1,4 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\bin\Debug\netcoreapp2.0\RageExpenses.deps.json
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\bin\Debug\netcoreapp2.0\RageExpenses.runtimeconfig.json
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\bin\Debug\netcoreapp2.0\RageExpenses.runtimeconfig.dev.json
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\bin\Debug\netcoreapp2.0\RageExpenses.dll
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\bin\Debug\netcoreapp2.0\RageExpenses.pdb
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\obj\Debug\netcoreapp2.0\RageExpenses.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\obj\Debug\netcoreapp2.0\RageExpenses.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\obj\Debug\netcoreapp2.0\RageExpenses.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\obj\Debug\netcoreapp2.0\RageExpenses.AssemblyInfo.cs
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\obj\Debug\netcoreapp2.0\RageExpenses.dll
+c:\users\e6420\source\repos\ProgrammingFundamentalsExamTrains\ProgrammingFundamentalsExamTrains\obj\Debug\netcoreapp2.0\RageExpenses.pdb

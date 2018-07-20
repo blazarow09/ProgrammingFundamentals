@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\bin\Debug\netcoreapp2.0\CakeIngredients.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\bin\Debug\netcoreapp2.0\CakeIngredients.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\bin\Debug\netcoreapp2.0\CakeIngredients.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\bin\Debug\netcoreapp2.0\CakeIngredients.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\bin\Debug\netcoreapp2.0\CakeIngredients.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\obj\Debug\netcoreapp2.0\CakeIngredients.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\obj\Debug\netcoreapp2.0\CakeIngredients.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\obj\Debug\netcoreapp2.0\CakeIngredients.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\obj\Debug\netcoreapp2.0\CakeIngredients.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\obj\Debug\netcoreapp2.0\CakeIngredients.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\CakeIngredients\obj\Debug\netcoreapp2.0\CakeIngredients.pdb

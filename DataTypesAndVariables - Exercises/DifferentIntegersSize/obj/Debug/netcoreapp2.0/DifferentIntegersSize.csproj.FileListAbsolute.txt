@@ -1,0 +1,11 @@
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.deps.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.runtimeconfig.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.runtimeconfig.dev.json
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.pdb
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.AssemblyInfo.cs
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.dll
+c:\users\e6420\source\repos\TechModule\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.pdb

@@ -1,0 +1,10 @@
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\bin\Debug\netcoreapp2.0\OddOcurrrences.deps.json
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\bin\Debug\netcoreapp2.0\OddOcurrrences.runtimeconfig.json
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\bin\Debug\netcoreapp2.0\OddOcurrrences.runtimeconfig.dev.json
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\bin\Debug\netcoreapp2.0\OddOcurrrences.dll
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\bin\Debug\netcoreapp2.0\OddOcurrrences.pdb
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\obj\Debug\netcoreapp2.0\OddOcurrrences.csproj.CoreCompileInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\obj\Debug\netcoreapp2.0\OddOcurrrences.AssemblyInfoInputs.cache
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\obj\Debug\netcoreapp2.0\OddOcurrrences.AssemblyInfo.cs
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\obj\Debug\netcoreapp2.0\OddOcurrrences.dll
+c:\users\e6420\source\repos\DictionariesLab\OddOcurrrences\obj\Debug\netcoreapp2.0\OddOcurrrences.pdb

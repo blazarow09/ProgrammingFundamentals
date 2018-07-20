@@ -1,0 +1,10 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.pdb

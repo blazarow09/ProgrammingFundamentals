@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\bin\Debug\netcoreapp2.0\ExtractSentences.deps.json
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\bin\Debug\netcoreapp2.0\ExtractSentences.runtimeconfig.json
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\bin\Debug\netcoreapp2.0\ExtractSentences.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\bin\Debug\netcoreapp2.0\ExtractSentences.dll
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\bin\Debug\netcoreapp2.0\ExtractSentences.pdb
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\obj\Debug\netcoreapp2.0\ExtractSentences.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\obj\Debug\netcoreapp2.0\ExtractSentences.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\obj\Debug\netcoreapp2.0\ExtractSentences.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\obj\Debug\netcoreapp2.0\ExtractSentences.AssemblyInfo.cs
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\obj\Debug\netcoreapp2.0\ExtractSentences.dll
+C:\Users\E6420\source\repos\RegexLab\ExtractSentences\obj\Debug\netcoreapp2.0\ExtractSentences.pdb

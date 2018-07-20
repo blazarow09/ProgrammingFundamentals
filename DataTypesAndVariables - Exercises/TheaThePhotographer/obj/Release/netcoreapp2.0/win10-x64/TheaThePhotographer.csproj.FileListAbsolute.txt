@@ -1,0 +1,13 @@
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.exe
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.deps.json
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.runtimeconfig.json
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.dll
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.pdb
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.AssemblyInfo.cs
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.dll
+C:\Users\E6420\source\repos\TechModule\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Release\netcoreapp2.0\win10-x64\TheaThePhotographer.pdb

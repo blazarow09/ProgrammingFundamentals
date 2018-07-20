@@ -1,0 +1,11 @@
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.deps.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.runtimeconfig.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.runtimeconfig.dev.json
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.pdb
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.AssemblyInfoInputs.cache
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.AssemblyInfo.cs
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.dll
+C:\Users\E6420\source\repos\ProgrammingFundamentalsExamTrains\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.pdb

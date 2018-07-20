@@ -1,0 +1,11 @@
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.deps.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.dev.json
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.pdb
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csprojResolveAssemblyReference.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csproj.CoreCompileInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfoInputs.cache
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfo.cs
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.dll
+B:\VisualStudio\TechModule\ConditionalStatementsAndLoops\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.pdb
